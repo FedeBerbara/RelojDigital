@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    background-color: #222f3e;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span {
+    color: white;
+}
+html {
+    background-color: white;
+}
+.container {
+    border: 1px solid #022025;
+    margin-top: 190px;
+    max-width: 700px;
+}
+.container-one {
+    border: 8px solid #022025;
+}
+.container-fecha {
+    border-bottom: 15px solid #022025;
+    color: white;
+    padding: 35px 0 25px 0;
+    text-align: center;
+    font-size: 40px;
+}
+.container-horas {
+    font-size: 70px;
+    padding: 30px 20px 40px 0;
+    text-align: right;
+}
+.container-minutos {
+    font-size: 70px;
+    padding: 30px 20px 40px 0;
+    text-align: center;
+}
+.container-segundos {
+    text-align: left;
+    padding-top: 25px;
+    font-size: 45px;
+}
