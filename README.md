@@ -1,8 +1,6 @@
 # RelojDigital
 
-Ejercicio creado como tarea para la Diplomatura. 
+Ejercicio creado como tarea en practicas de clases en JavaScript
 Se utilizo : 
 
-HTML5
-CSS 3
-JavaScript
+HTML5, CSS3, JavaScript
