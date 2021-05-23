@@ -16,6 +16,7 @@ html {
 }
 .container-one {
     border: 8px solid #022025;
+    text-align: center;
 }
 .container-fecha {
     border-bottom: 15px solid #022025;
@@ -27,15 +28,18 @@ html {
 .container-horas {
     font-size: 70px;
     padding: 30px 20px 40px 0;
-    text-align: right;
 }
 .container-minutos {
     font-size: 70px;
     padding: 30px 20px 40px 0;
-    text-align: center;
 }
 .container-segundos {
-    text-align: left;
     padding-top: 25px;
     font-size: 45px;
+}
+
+@media (max-width: 350px) {
+    .container-segundos {
+        margin-left: 85px;
+    }
 }

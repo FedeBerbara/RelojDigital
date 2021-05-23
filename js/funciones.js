@@ -108,6 +108,3 @@ $(document).ready(function actualizarHora() {
   $("#segundero").text(segundos);
   $("#ampm").text(diaOTarde);
 });
-
-//Muestro hora en consola
-console.log(new Date());
